@@ -1,2 +1,2 @@
 # Demo
-First repository for learning
+First repository for learning.
